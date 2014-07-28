@@ -330,13 +330,13 @@ ul#nav li.current a { color: #D11919; } /* FUCKING COLOR ANARANJADO HORRIBLE (cu
   	-webkit-animation: baking 2s ease;
 }
 .art {
-  	width: 70%;
+  	width: 65%;
   	-moz-animation: art 2s ease;
   	-webkit-animation: art 2s ease;
 }
 
 .editing {
-  	width: 65%;
+  	width: 70%;
   	-moz-animation: editing 2s ease;
   	-webkit-animation: editing 2s ease;
 }
