@@ -1,2 +1,0 @@
-asagasti.github.io
-==================
